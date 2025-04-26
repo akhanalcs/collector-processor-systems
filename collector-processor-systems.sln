@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingestor", "Ingestor\Ingestor.csproj", "{D054123A-0701-4915-9804-0E56A2A98908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processor", "Processor\Processor.csproj", "{297E7DEE-F40C-4E68-AE7B-2EDF70DDFFE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D054123A-0701-4915-9804-0E56A2A98908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D054123A-0701-4915-9804-0E56A2A98908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D054123A-0701-4915-9804-0E56A2A98908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D054123A-0701-4915-9804-0E56A2A98908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297E7DEE-F40C-4E68-AE7B-2EDF70DDFFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297E7DEE-F40C-4E68-AE7B-2EDF70DDFFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297E7DEE-F40C-4E68-AE7B-2EDF70DDFFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297E7DEE-F40C-4E68-AE7B-2EDF70DDFFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
