@@ -1,8 +1,12 @@
 # collector-processor-systems
 Implementing separate collector and processor systems using .NET and Azure cloud.
 
-## Good sample apps
-https://github.com/Azure-Samples/pubsub-dapr-csharp-servicebus?tab=readme-ov-file
+## Helpful links
+1. [Dapr PubSub with Service Bus](https://github.com/Azure-Samples/pubsub-dapr-csharp-servicebus?tab=readme-ov-file)
+2. [Monorepo in .NET](https://stackoverflow.com/a/79165870/8644294)
+3. [Monorepo in .NET + GitHub](https://medium.com/@no1.melman10/monorepo-net-github-ea179a2ef15e)
+4. [Developing with Multiple Repositories inside a Single Solution for .NET](https://devblogs.microsoft.com/ise/dotnet-multi-repo)
+5. https://github.com/akhanalcs/iac-on-azure/blob/main/ServiceBus.md (Complete this)
 
 ## Local setup
 1. Install k6 for reliability testing.
