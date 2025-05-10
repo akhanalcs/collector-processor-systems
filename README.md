@@ -7,6 +7,9 @@ Implementing separate collector and processor systems using .NET and Azure cloud
 3. [Monorepo in .NET + GitHub](https://medium.com/@no1.melman10/monorepo-net-github-ea179a2ef15e)
 4. [Developing with Multiple Repositories inside a Single Solution for .NET](https://devblogs.microsoft.com/ise/dotnet-multi-repo)
 5. https://github.com/akhanalcs/iac-on-azure/blob/main/ServiceBus.md (Complete this)
+6. Look at Nx: https://github.com/akhanalcs/angular-dotnet-realworld (Delete this repo later after extracting the docs)
+   - https://github.com/HaasStefan/ng-journal-insurance-portal (Really nice runnable example of an app with Nx + NestJS + Angular)
+7. This repo will swallow https://github.com/akhanalcs/react-aspnetcore-bff eventually.
 
 ## Local setup
 1. Install k6 for reliability testing.
